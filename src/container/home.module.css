@@ -1,0 +1,43 @@
+.da-red{
+    width:200px;
+    height:40px;
+    background-color: rgb(17, 0, 255);
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    font-size:25px;
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+}
+.da-blue{
+    width:200px;
+    height:40px;
+    background-color: rgb(0, 0, 0);
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    font-size:25px;
+    color:rgb(255, 255, 255);
+    border-radius: 10px;
+}
+.da-green{
+    width:200px;
+    height:40px;
+    background-color: rgb(255, 0, 0);
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    font-size:25px;
+    color:black;
+    text-decoration: none;
+    border-radius: 10px;
+}
+img{
+    width:421px;
+    height:230px;
+
+}
+.hidden{
+    display:none
+}
